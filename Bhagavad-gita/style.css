@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: large ;
+    /* background-color:brown;
+    color: gold; */
+}
+.tribute {
+    margin: 7px;
+    padding: 8px;
+}
+.author {
+    padding: 7px;
+    margin: 8px;
+}
+.chapter-one {
+    padding: 7px;
+    margin: 8px;
+   
+}
+.chapter-two {
+    margin: 8px;
+    padding: 7px;
+}
+.chapter-three {
+    margin: 8px;
+    padding: 7px;
+}
+.chapter-four {
+    margin: 8px;
+    padding: 7px;
+}
+div {
+    margin: 8px;
+    padding: 7px;
+}
